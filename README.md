@@ -33,3 +33,8 @@ The results from the simulation indicated that the ALU performed all operations 
 This project successfully demonstrated the implementation of a basic ALU using VHDL, with a focus on clarity, accuracy, and verification. The design could be extended in the future to support more complex operations such as multiplication or division. Overall, the simulation results confirmed that the ALU met its functional requirements, making it a valuable component for more complex digital systems. The testbench provided a solid verification mechanism for ensuring the correctness of the ALU's functionality across various scenarios.
 
 In conclusion, this project highlights the importance of careful VHDL design, testing, and simulation in the creation of functional hardware components. The ALU designed here can serve as a fundamental building block for digital systems, and the methodology used in the testbench can be applied to larger, more complex designs in future projects.
+
+
+
+### Output: 
+![output]()
