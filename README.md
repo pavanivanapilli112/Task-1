@@ -37,4 +37,4 @@ In conclusion, this project highlights the importance of careful VHDL design, te
 
 
 ### Output: 
-![output]()
+![output](https://github.com/pavanivanapilli112/Task-1/blob/main/IMG-20250303-WA0005.jpg)
